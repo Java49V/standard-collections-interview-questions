@@ -39,11 +39,7 @@ List<Integer> mutableList;
 		Integer[] expected4 = {-50, 17, 500};
 		Integer[] expected5 = {10, -30, -50, 17};
 		subList.remove(2);
-//		List<Integer> subList2 = mutableList.subList(0, 2);
-//		subList.add(40);
-//		//assertArrayEquals(expected5, mutableList.toArray(Integer[]::new));
-//		System.out.println(subList2);
-		
+
 		
 		
 		
